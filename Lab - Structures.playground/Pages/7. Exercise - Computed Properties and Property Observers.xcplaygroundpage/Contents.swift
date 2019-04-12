@@ -50,5 +50,5 @@ struct Height {
     }
 }
  var theHeight = Height(heightInCentimeters: 179)
-print(theHeight.heightInInches)
+print(theHeight.heightInInches4)
 //: [Previous](@previous)  |  page 7 of 10  |  [Next: App Exercise - Mile Times and Congratulations](@next)
